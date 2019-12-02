@@ -2,14 +2,27 @@
     height: 70px;
     width: 75px;
 }
-#body{
+body{
     background-color: rgb(230, 230, 173);
 }
-#aside{
-text-align: right;
+#Titulo{
+    top: 15%;
+    position: relative;
 }
-#facebook{
-    size: 5%;
+#navegador ul{
+    list-style-type: none;
+    text-align: center;
+}
+#navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+}
+#navegador li a{
+    padding: 2px 7px 2px 7px;
+    color: rgb(2, 2, 2);
+    text-decoration: none;
+    font-size: 30px;
 }
 #parrafo1{
     font: bold;
@@ -19,21 +32,34 @@ text-align: left;
 }
 div.caja1{
     text-align: center;
-    height: 15px;
+    margin-top:-100px;
     float: center;
 }
 div.caja2{
-    text-align: right;
+    float: right;
+    margin-top:-100px;
+}
+#TT_FyDfhKx11tpBrehK7AujDzzDD6lK1MSFrzjDzkDkDkzoGIGIm{
+    margin-top: -80px;
+    float:right;
 }
 div.caja3{
-   align:left;
-}
-#top{
-    align:center;
-}
-div.caja4{
-    text-align: left;
-    height: 15px;
-    margin: left;
     float: left;
+    width: 100px;
+}
+#facebook{
+    float:right;
+    margin-top: 200px;
+}
+#twitter{
+    float:right;
+    margin-top: 200px;
+}
+#vimeo{
+    float:right;
+    margin-top: 200px;
+}
+#flickr{
+    float:right;
+    margin-top: 200px;
 }
