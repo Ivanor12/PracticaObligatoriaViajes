@@ -1,0 +1,39 @@
+#maleta{
+    height: 70px;
+    width: 75px;
+}
+#body{
+    background-color: rgb(230, 230, 173);
+}
+#aside{
+text-align: right;
+}
+#facebook{
+    size: 5%;
+}
+#parrafo1{
+    font: bold;
+}
+#parrafo2{
+text-align: left;
+}
+div.caja1{
+    text-align: center;
+    height: 15px;
+    float: center;
+}
+div.caja2{
+    text-align: right;
+}
+div.caja3{
+   align:left;
+}
+#top{
+    align:center;
+}
+div.caja4{
+    text-align: left;
+    height: 15px;
+    margin: left;
+    float: left;
+}
